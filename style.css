@@ -1,9 +1,9 @@
 /* PART 1: Write these rules on your own. */
 
 body{
-  font-family: courier;
+  font-family: Courier;
   margin: 10px;
-  padding: 10px;
+  padding: 10px 0;
   /* make all text courier, set margin and padding to 10px */
 }
 
