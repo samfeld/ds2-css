@@ -16,7 +16,7 @@ h1{
 
 p{
   /* make your paragraphs 14pt, double-spaced and 10px of padding on the left and right */
-  font-size: 14px;
+  font-size: 14pt;
   padding-left: 10px;
   padding-right: 10px;
 }
