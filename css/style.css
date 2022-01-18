@@ -48,7 +48,7 @@ img{
 
 ul{
   /* make bullet points red squares */
-  list-style: circle;
+  list-style: square;
   color: red;
 }
 
