@@ -21,11 +21,7 @@ p{
   padding-right: 10px;
 }
 
-ul{
-  /* make bullet points red squares */
-  list-style: square;
-  color: red;
-}
+
 
 /* Part 2: And now debug..... */
 a{
@@ -50,7 +46,11 @@ img{
   border: 10px dashed #1ba550;
 }
 
-
+ul{
+  /* make bullet points red squares */
+  list-style: circle;
+  color: red;
+}
 
 
 .footer{
